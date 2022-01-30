@@ -1,0 +1,15 @@
+C:\Users\IHB\Documents\скил\obj\Debug\net6.0\скил.csproj.AssemblyReference.cache
+C:\Users\IHB\Documents\скил\obj\Debug\net6.0\скил.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IHB\Documents\скил\obj\Debug\net6.0\скил.AssemblyInfoInputs.cache
+C:\Users\IHB\Documents\скил\obj\Debug\net6.0\скил.AssemblyInfo.cs
+C:\Users\IHB\Documents\скил\obj\Debug\net6.0\скил.csproj.CoreCompileInputs.cache
+C:\Users\IHB\Documents\скил\bin\Debug\net6.0\скил.exe
+C:\Users\IHB\Documents\скил\bin\Debug\net6.0\скил.deps.json
+C:\Users\IHB\Documents\скил\bin\Debug\net6.0\скил.runtimeconfig.json
+C:\Users\IHB\Documents\скил\bin\Debug\net6.0\скил.dll
+C:\Users\IHB\Documents\скил\bin\Debug\net6.0\ref\скил.dll
+C:\Users\IHB\Documents\скил\bin\Debug\net6.0\скил.pdb
+C:\Users\IHB\Documents\скил\obj\Debug\net6.0\скил.dll
+C:\Users\IHB\Documents\скил\obj\Debug\net6.0\ref\скил.dll
+C:\Users\IHB\Documents\скил\obj\Debug\net6.0\скил.pdb
+C:\Users\IHB\Documents\скил\obj\Debug\net6.0\скил.genruntimeconfig.cache
